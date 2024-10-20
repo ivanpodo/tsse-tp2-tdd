@@ -1,4 +1,4 @@
-# Testing de Software en Sistemas Embebidos - Trabajo Práctico Número 4
+# Testing de Software en Sistemas Embebidos - Trabajo Práctico Número 2
 
 Proyecto basado en el TP2 de la materia donde se desarrollo un test para una biblioteca de un controlador de leds.
 
